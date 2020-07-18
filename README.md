@@ -15,6 +15,6 @@
 
 * Github Repo Issue
 * Discord: HanSeo#0507
-* Email: khan3618@naver.com
+* Email: i_hansu_oo@naver.com
 
 ![HanSeo's Github Stats](https://github-readme-stats.vercel.app/api?username=HanSeo0507&show_icons=true)
