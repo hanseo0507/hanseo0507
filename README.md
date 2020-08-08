@@ -10,6 +10,7 @@
 ### Project ⚡
 
 * 🔍 What Is My IP? ([Website](https://ip.hanseo.xyz/)) ([Repo](https://github.com/hanseo0507/what-is-my-ip))
+* 📅 MY-SCHOOL.INFO ([Website](https://my-school.info/)) ([Repo](https://github.com/MY-SCHOOL-INFO/MY-SCHOOL.INFO))
 
 ### Contacts 📫
 
