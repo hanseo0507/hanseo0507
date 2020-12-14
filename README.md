@@ -33,4 +33,4 @@
 * Github Repo Issue
 * Discord: HanSeo#0283
 * Email: i_hansu_oo@naver.com
-* Youtube: https://www.youtube.com/channel/UCzvPY9Ryn7-4O7otCHR_Alg
+* [Youtube](https://www.youtube.com/channel/UCzvPY9Ryn7-4O7otCHR_Alg)
