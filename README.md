@@ -1,36 +1,42 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=I'm%20HanSeo.&fontSize=90&animation=twinkling)
+
+<img src="./images/title-1.png" width="700">
+
+### 🌟 About Me
+
+- I'm a student of Hansei Cyber Security High School.
+- I'm interested in **Web(FE, BE)**, **Server & DevOps**, and **Computer Networking**.
 
 
-<p>
-	<em>
-	I'm a Student Developer. 💻</br>
-	I like learning <b>New Things</b> and <b>Typescript</b> <s>(I think typescript is fun, cool, sexy)</s>
-	</em>
-</p>
+### 📦 Projects
 
-### Tech Stack 🛠
-<p > 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>&nbsp
-</p>
+- **[What Is My IP?](https://hanseo0507.github.io/What-Is-My-IP/)**: 2020.07
+  - ✨ This is my first project
+  - Repo: [hanseo0507/What-Is-My-IP](https://github.com/hanseo0507/What-Is-My-IP)
+- **[보안관제 CTF v1](https://hctf.hsoc.kr)**: 2021.03~2021.11.16
+  - 프론트엔드, 백엔드, 디자인, 서버 담당 (1인 개발)
+  - 실제 교내/외 CTF 대회 운영
+- **한팀 인트라넷**: 2021.05~2021.08
+  - 프론트엔드 담당
+  - 교내 인트라넷 서비스 개발 (현재 운영 중단)
+- **고잉 - 힘든 길은 'No' 편한 길은 'Go’**: 2021.05~2021.08
+  - 제 3회 한국코드페어 해커톤 고등부 수상작
+  - Repo: [hanseo0507/going](https://github.com/hanseo0507/going)
+- **[한세 VPN](https://hansei.kr)**: 2022.02 ~
+  - 프론트엔드 개발, 디자인 담당
+  - 교내 재학생을 대상으로 누적 **58.2/71.9TB** 트래픽 처리 
+- **[키우미(키오스크 도우미)](https://kiumi.co.kr)**: 2022.1 ~
+  - 프론트엔드, 앱(React Native) 담당
 
-### Project ⚡
 
-* 🔍 What Is My IP? ([Repo](https://github.com/hanseo0507/what-is-my-ip))
-* 📅 MY-SCHOOL.INFO ([Repo](https://github.com/MY-SCHOOL-INFO/MY-SCHOOL.INFO)) (v2 comming soon! ⚡️)
-### Contacts 📫
+### 🏆 Awards
 
-* Github Repo Issue
-* Discord: HanSeo#0283
+- 22' 제 5회 한세사이버보안고등학교 교내 해커톤(한세톤) 생활부문 1등
+- 21' 제 3회 한국코드페어 해커톤 고등부 2등(장관상) 수상
+
+### 📬 Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:i.hansu.lee@gmail.com)](mailto:i.hansu.lee@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hanseo0507/)](https://twitter.com/hanseo0507/)
+
+
+[![HanSeo0507's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeo0507&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
