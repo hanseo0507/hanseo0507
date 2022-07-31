@@ -1,6 +1,8 @@
 
 <img src="./images/title-1.png" width="700">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseo0507&count_bg=%23D99A46&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=Hello%2C+HanSeo%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 🌟 About Me
 
 - I'm a student of Hansei Cyber Security High School.
