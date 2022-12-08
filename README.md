@@ -40,5 +40,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:i.hansu.lee@gmail.com)](mailto:i.hansu.lee@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hanseo0507/)](https://twitter.com/hanseo0507/)
 
-
-[![HanSeo0507's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeo0507&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![HanSeo0507's GitHub stats](http://github-readme-stats-hanseo0507.vercel.app/api?username=HanSeo0507&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
