@@ -34,10 +34,3 @@
 
 - 22' 제 5회 한세사이버보안고등학교 교내 해커톤(한세톤) 생활부문 1등
 - 21' 제 3회 한국코드페어 해커톤 고등부 2등(장관상) 수상
-
-### 📬 Contacts
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:i.hansu.lee@gmail.com)](mailto:i.hansu.lee@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hanseo0507/)](https://twitter.com/hanseo0507/)
-
-[![HanSeo0507's GitHub stats](http://github-readme-stats-hanseo0507.vercel.app/api?username=HanSeo0507&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
