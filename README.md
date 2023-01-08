@@ -35,4 +35,8 @@
 - 22' 제 5회 한세사이버보안고등학교 교내 해커톤(한세톤) 생활부문 1등
 - 21' 제 3회 한국코드페어 해커톤 고등부 2등(장관상) 수상
 
-[![HanSeo0507's GitHub stats](https://github-readme-stats-hanseo0507.vercel.app/api?username=hanseo0507&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![hanseo0507's github readme stats](https://github-readme-stats-hanseo0507.vercel.app/api?username=hanseo0507&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![hanseo0507's github profile trophy](https://github-profile-trophy-hanseo0507.vercel.app/?username=hanseo0507&column=4)](https://github.com/ryo-ma/github-profile-trophy)
